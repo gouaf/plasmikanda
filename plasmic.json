@@ -1,0 +1,181 @@
+{
+  "platform": "react",
+  "code": {
+    "lang": "ts",
+    "scheme": "blackbox",
+    "reactRuntime": "classic"
+  },
+  "style": {
+    "scheme": "css-modules",
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.module.css"
+  },
+  "images": {
+    "scheme": "files",
+    "publicDir": "../../public",
+    "publicUrlPrefix": "/static/"
+  },
+  "tokens": {
+    "scheme": "theo",
+    "tokensFilePath": "plasmic-tokens.theo.json"
+  },
+  "srcDir": "src/components",
+  "defaultPlasmicDir": "./plasmic",
+  "projects": [
+    {
+      "projectId": "KrxCjW4R1mRnYSwDviEVL",
+      "projectApiToken": "vJirvT4ZnNrjURDuodOE0lSHmnxZEDII5F7Yxymp2nKga20rjCnTAgH3k2nqKInvCnpOO4QlToCwRKRK9SQ",
+      "projectName": "Classy Agency Website",
+      "version": "latest",
+      "cssFilePath": "plasmic/classy_agency_website/plasmic_classy_agency_website.module.css",
+      "components": [
+        {
+          "id": "qLIFzKQ9P5v7O",
+          "name": "Homepage",
+          "type": "managed",
+          "projectId": "KrxCjW4R1mRnYSwDviEVL",
+          "renderModuleFilePath": "plasmic/classy_agency_website/PlasmicHomepage.tsx",
+          "importSpec": {
+            "modulePath": "Homepage.tsx"
+          },
+          "cssFilePath": "plasmic/classy_agency_website/PlasmicHomepage.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "IyR48N57YI-_t",
+          "name": "Button",
+          "type": "managed",
+          "projectId": "KrxCjW4R1mRnYSwDviEVL",
+          "renderModuleFilePath": "plasmic/classy_agency_website/PlasmicButton.tsx",
+          "importSpec": {
+            "modulePath": "Button.tsx"
+          },
+          "cssFilePath": "plasmic/classy_agency_website/PlasmicButton.module.css",
+          "scheme": "blackbox",
+          "componentType": "component",
+          "plumeType": "button"
+        }
+      ],
+      "icons": [
+        {
+          "id": "PIlqw5klUDN0S9",
+          "name": "IconIcon",
+          "moduleFilePath": "plasmic/classy_agency_website/icons/PlasmicIcon__Icon.tsx"
+        },
+        {
+          "id": "LCpheNSdmJ6ZNI",
+          "name": "ChecksvgIcon",
+          "moduleFilePath": "plasmic/classy_agency_website/icons/PlasmicIcon__Checksvg.tsx"
+        },
+        {
+          "id": "-eJkMEYtxGx56X",
+          "name": "ArrowDownsvgIcon",
+          "moduleFilePath": "plasmic/classy_agency_website/icons/PlasmicIcon__ArrowDownsvg.tsx"
+        },
+        {
+          "id": "9JSLIS2nG18X70",
+          "name": "Icon21Icon",
+          "moduleFilePath": "plasmic/classy_agency_website/icons/PlasmicIcon__Icon21.tsx"
+        },
+        {
+          "id": "CgEwIvJca4A7zC",
+          "name": "Icon8Icon",
+          "moduleFilePath": "plasmic/classy_agency_website/icons/PlasmicIcon__Icon8.tsx"
+        },
+        {
+          "id": "yxaikKgE5d3IYT",
+          "name": "Icon18Icon",
+          "moduleFilePath": "plasmic/classy_agency_website/icons/PlasmicIcon__Icon18.tsx"
+        },
+        {
+          "id": "69JTD1k1eh4ppH",
+          "name": "Icon22Icon",
+          "moduleFilePath": "plasmic/classy_agency_website/icons/PlasmicIcon__Icon22.tsx"
+        },
+        {
+          "id": "4kcwFi7WBn74kh",
+          "name": "Icon23Icon",
+          "moduleFilePath": "plasmic/classy_agency_website/icons/PlasmicIcon__Icon23.tsx"
+        },
+        {
+          "id": "POey8-IB7HbRG0",
+          "name": "Icon3Icon",
+          "moduleFilePath": "plasmic/classy_agency_website/icons/PlasmicIcon__Icon3.tsx"
+        },
+        {
+          "id": "3f54kDJ-vqAfJ6",
+          "name": "Icon2Icon",
+          "moduleFilePath": "plasmic/classy_agency_website/icons/PlasmicIcon__Icon2.tsx"
+        },
+        {
+          "id": "UJqQ7dgmFnDEu-",
+          "name": "Icon28Icon",
+          "moduleFilePath": "plasmic/classy_agency_website/icons/PlasmicIcon__Icon28.tsx"
+        }
+      ],
+      "images": [
+        {
+          "id": "CEPVE7iZPHTYNS",
+          "name": "m-logo.svg",
+          "filePath": "plasmic/classy_agency_website/images/mLogosvg.svg"
+        },
+        {
+          "id": "SnHKz1jdgSEvYG",
+          "name": "pexels-matej-774548.jpg",
+          "filePath": "plasmic/classy_agency_website/images/pexelsMatej774548Jpg.jpeg"
+        },
+        {
+          "id": "aruw-JsekzLLu6",
+          "name": "pexels-soloman-soh-1492232.jpg",
+          "filePath": "plasmic/classy_agency_website/images/pexelsSolomanSoh1492232Jpg.jpeg"
+        },
+        {
+          "id": "Xzf-iTm14K-YLq",
+          "name": "pexels-tim-mossholder-1154739.jpg",
+          "filePath": "plasmic/classy_agency_website/images/pexelsTimMossholder1154739Jpg.jpeg"
+        },
+        {
+          "id": "WaG-Fi8Cv0-lDE",
+          "name": "pexels-ngai-man-yan-842158.jpg",
+          "filePath": "plasmic/classy_agency_website/images/pexelsNgaiManYan842158Jpg.jpeg"
+        },
+        {
+          "id": "KU_n4ExlKcEoCF",
+          "name": "m-logo.svg 2",
+          "filePath": "plasmic/classy_agency_website/images/mLogosvg2.svg"
+        },
+        {
+          "id": "VQvTiJEhtSUdDm",
+          "name": "pexels-scott-webb-2346594.jpg",
+          "filePath": "plasmic/classy_agency_website/images/pexelsScottWebb2346594Jpg.jpeg"
+        },
+        {
+          "id": "T3a_OwY16zKqiL",
+          "name": "image",
+          "filePath": "plasmic/classy_agency_website/images/image.png"
+        },
+        {
+          "id": "OZWQvfKe3AOmjH",
+          "name": "image 2",
+          "filePath": "plasmic/classy_agency_website/images/image2.png"
+        }
+      ],
+      "indirect": false,
+      "globalContextsFilePath": "",
+      "codeComponents": []
+    }
+  ],
+  "globalVariants": {
+    "variantGroups": [
+      {
+        "id": "s45AMOonXk_mC",
+        "name": "Screen",
+        "projectId": "KrxCjW4R1mRnYSwDviEVL",
+        "contextFilePath": "plasmic/classy_agency_website/PlasmicGlobalVariant__Screen.tsx"
+      }
+    ]
+  },
+  "wrapPagesWithGlobalContexts": true,
+  "cliVersion": "0.1.182",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.182/dist/plasmic.schema.json"
+}
